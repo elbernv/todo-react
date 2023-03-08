@@ -1,0 +1,20 @@
+.go-back-btn {
+  top: 20px;
+  right: 0px;
+}
+
+.card-container {
+  width: 450px;
+  height: 450px;
+  contain: content;
+}
+
+.btn-container {
+  width: 80%;
+  justify-content: space-between;
+  bottom: 15px;
+}
+
+.modal-alert {
+  transform: translate(-50%, -150%) !important;
+}

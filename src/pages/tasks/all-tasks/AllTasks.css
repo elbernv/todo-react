@@ -1,0 +1,17 @@
+.th,
+.tr {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.tr {
+  cursor: pointer;
+}
+
+.tr-finished {
+  background-color: rgba(67, 255, 67, 0.178);
+}
+
+.tr-in-progress {
+  background-color: rgba(238, 255, 0, 0.13);
+}
